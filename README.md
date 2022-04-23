@@ -1,5 +1,5 @@
 # ntm
-neural topic model
+neural topic models
 
 - model_vae: variational auto-encoder
 - model_sae: modified vae model using sinkhorn distance
